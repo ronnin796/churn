@@ -54,24 +54,25 @@ The dataset contains customer demographic information, account details, and serv
 ## Clone the repository
 
 ``` git clone https://github.com/ronnin796/churn.git
-cd churn
-
-```
+   cd churn 
    
+```
+
 
 
 ## Create a virtual environment
 
 ``` python3 -m venv venv
  source venv/bin/activate    # Linux / macOS
-  venv\Scripts\activate # Windows
-
-```        
+  venv\Scripts\activate  # Windows
+```       
 
 
 ## Install dependencies
 
-``` pip install numpy pandas scikit-learn matplotlib seaborn notebook
+``` 
+pip install numpy pandas scikit-learn matplotlib seaborn notebook
+
 ``` 
 
 
