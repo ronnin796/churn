@@ -53,8 +53,9 @@ The dataset contains customer demographic information, account details, and serv
 
 ## Clone the repository
 
-``` git clone https://github.com/ronnin796/churn.git
-   cd churn 
+```
+ git clone https://github.com/ronnin796/churn.git
+cd churn 
    
 ```
 
@@ -62,9 +63,11 @@ The dataset contains customer demographic information, account details, and serv
 
 ## Create a virtual environment
 
-``` python3 -m venv venv
+```
+python3 -m venv venv
  source venv/bin/activate    # Linux / macOS
   venv\Scripts\activate  # Windows
+
 ```       
 
 
